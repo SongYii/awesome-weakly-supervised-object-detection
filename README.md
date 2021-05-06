@@ -21,7 +21,17 @@ Markdown format:
  - [Benchmarks](#benchmarks)
 
 ## Papers
+### Survey
+- Weakly Supervised Object Localization and Detection: A Survey.
+  [[pdf]](https://arxiv.org/pdf/2104.07918.pdf) 
+  - Dingwen Zhang, Junwei Han, Gong Cheng, Ming-Hsuan Yang. *TPAMI*
+
 ### Only Image-level Labels
+
+#### 2021
+- Instance Mining with Class Feature Banks for Weakly Supervised Object Detection.
+  [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-2571.YinY.pdf)
+  - Yufei Yin, Jiajun Deng, Wengang Zhou, Houqiang Li. *AAAI 2021*
 
 #### 2020
 - Object Instance Mining for Weakly Supervised Object Detection.
